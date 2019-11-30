@@ -4,4 +4,4 @@
 This exam is not easy to pass. This is my personal study plan. Based on the previous question I made it.
 
 # Content
-- [Binary Basic](content/binary-basic)
+- [Binary Basic](content/binary-basic.md)
