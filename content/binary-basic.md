@@ -1,2 +1,2 @@
-> [Back to home page](README.md)
+> [Back to home page](../README.md)
 # Binary Basic
